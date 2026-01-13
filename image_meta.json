@@ -1,0 +1,28 @@
+[
+  {
+    "query": "professional user profile icon flat vector blue minimalist",
+    "image_info": {
+      "url": "https://static.vecteezy.com/system/resources/previews/046/409/821/non_2x/avatar-profile-icon-in-flat-style-male-user-profile-illustration-on-isolated-background-man-profile-sign-business-concept-vector.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 20337,
+      "width": 980,
+      "height": 980,
+      "total_pixels": 960400,
+      "basic_score": 0.9181560060869716,
+      "file_name": "professional-male-profile-avatar-flat-vector.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image aligns perfectly with the search query and prompt. It represents a clean, flat vector style suitable for a professional avatar. The minimalist design (faceless) makes it highly versatile for user interfaces. The resolution is high with sharp edges, and there are no visible watermarks.",
+      "file_name": "professional-male-profile-avatar-flat-vector.jpg",
+      "caption": "A minimalist flat vector icon of a professional male avatar featuring brown hair, a dark grey suit, and an orange tie set against a circular light blue background.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
